@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.key {
+  font-size: 22px;
+  margin: 2px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgb(197, 245, 125);
+}
+
+.disabledKey {
+  color: grey;
+  cursor: not-allowed;
+  background-color: rgb(241, 171, 163);
+}
+
+.word {
+  padding: 20px;
+  letter-spacing: 20px;
+  font-size: 26px;
+  color: grey;
+  font-weight: bold;
+  border-top: solid 2px grey;
+}
+
+.againBtn {
+  font-size: 20px;
+  padding: 10px;
+}
